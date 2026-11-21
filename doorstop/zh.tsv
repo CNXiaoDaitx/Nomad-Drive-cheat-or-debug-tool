@@ -1,0 +1,228 @@
+Key	Category	DisplayName	ZhName
+Apple	Food	Apple	苹果
+AppleSeeds	Seeds	AppleSeeds	
+Backpack-1	Tool	Small Backpack	小背包
+Backpack-2	Tool	Large Backpack	大背包
+BakedBeans	Food	BakedBeans	
+Banana	Food	Banana	香蕉
+Battery-1	VehiclePart	Battery-1	
+Battery-2	VehiclePart	Battery-2	
+Battery-3	VehiclePart	Battery-3	
+BatteryCharger	VehiclePart	BatteryCharger	
+Beer	Drink	Beer	啤酒
+Blueprint-Ladder	Tool	Ladder Blueprint	梯子蓝图
+Blueprint-MotorcycleHolder	Tool	Motorcycle Holder Blueprint	摩托车架蓝图
+Blueprint-RoofRack	Tool	Roof Rack Blueprint	车顶行李架蓝图
+Bookshelf-01	Furniture	Bookshelf-01	书架 I
+Bookshelf-02	Furniture	Bookshelf-02	书架 II
+Bookshelf-03	Furniture	Bookshelf-03	书架 III
+Bookshelf-04	Furniture	Bookshelf-04	书架 IV
+BottleWater	Drink	BottleWater	
+Bucket	Misc	Bucket	水桶
+Cabinet-01	Furniture	Cabinet-01	
+Cassette-01	Misc	Cassette-01	
+Cassette-02	Misc	Cassette-02	
+Cassette-03	Misc	Cassette-03	
+Cassette-04	Misc	Cassette-04	
+Cassette-05	Misc	Cassette-05	
+Cassette-06	Misc	Cassette-06	
+Cassette-07	Misc	Cassette-07	
+Cassette-08	Misc	Cassette-08	
+Cassette-09	Misc	Cassette-09	
+Cassette-10	Misc	Cassette-10	
+Cassette-11	Misc	Cassette-11	
+Cassette-12	Misc	Cassette-12	
+Cassette-13	Misc	Cassette-13	
+Cassette-14	Misc	Cassette-14	
+Cassette-15	Misc	Cassette-15	
+Cereal	Food	Cereal	麦片
+Chair	Furniture	Chair	椅子
+Chair-05	Furniture	Chair-05	餐椅 V
+Chair-Folding	Furniture	Chair-Folding	
+Chair-Folding-Color-01	Furniture	Chair-Folding	
+Chair-Folding-Color-02	Furniture	Chair-Folding	
+Chair-Folding-Color-03	Furniture	Chair-Folding	
+Chair-Folding-Color-04	Furniture	Chair-Folding	
+Chest-01	Misc	Chest-01	
+Chest-02	Misc	Chest-02	
+Chips-01	Food	Chips-01	
+ChocolateBar-01	Food	ChocolateBar-01	
+ChocolateBar-02	Food	ChocolateBar-02	
+ChocolateBar-03	Food	ChocolateBar-03	巧克力棒
+CigarettePackage	Misc	Cigarette Pack	香烟盒
+CoffeeMachine	Kitchen	CoffeeMachine	
+CoffeePack	Drink	CoffeePack	
+CoffeePot	Kitchen	CoffeePot	咖啡壶
+Compass	Tool	Compass	指南针
+ConsumableBattery	Electronics	ConsumableBattery	
+CookingPot-01	Kitchen	CookingPot-01	
+Coolant	Tool	Coolant	冷却液
+Crowbar	Tool	Crowbar	撬棍
+DinnerSeat-02	Furniture	DinnerSeat-02	餐椅 II
+DinnerSeat-04	Furniture	DinnerSeat-04	餐椅 IV
+DinnerTable-02	Furniture	DinnerTable-02	餐桌 II
+DinnerTable-03	Furniture	DinnerTable-03	餐桌 III
+DinnerTable-04	Furniture	DinnerTable-04	餐桌 IV
+DinnerTable-05	Furniture	DinnerTable-05	餐桌 V
+Drumstick	Food	Drumstick	鸡腿
+EnergyDrink	Drink	EnergyDrink	能量饮料
+Engine-1	VehiclePart	Engine-1	
+Engine-2	VehiclePart	Engine-2	
+Engine-3	VehiclePart	Engine-3	
+EngineRepairKit	VehiclePart	EngineRepairKit	
+FakePlant-01	Furniture	FakePlant-01	仿真植物 I
+FakePlant-02	Furniture	FakePlant-02	仿真植物 II
+FakePlant-03	Furniture	FakePlant-03	仿真植物 III
+FakePlant-04	Furniture	FakePlant-04	仿真植物 IV
+FirstAidKit	Misc	FirstAidKit	
+Flashlight	Tool	Flashlight	手电筒
+Fridge-02	Furniture	Fridge-02	
+Fridge-03	Furniture	Fridge-03	
+Fridge-04	Furniture	Fridge-04	
+Fridge01	Furniture	Fridge01	
+GasCan	Tool	Jerrycan	
+GasPumpNozzle	Misc	GasPumpNozzle	
+Handbrake-1	VehiclePart	Handbrake-1	
+Handbrake-2	VehiclePart	Handbrake-2	手刹 II
+Handbrake-3	VehiclePart	Handbrake-3	手刹 III
+Handbrake-4	VehiclePart	Handbrake-4	手刹 IV
+Handbrake-5	VehiclePart	Handbrake-5	手刹 V
+HighwayTire-1	VehiclePart	HighwayTire-1	
+Key	Misc	Key-01	
+Key-02	Misc	Key-02	
+Kitchen-TopCabinet-01	Furniture	Kitchen-TopCabinet-01	
+Kitchen-TopCabinet-02	Furniture	Kitchen-TopCabinet-02	
+Kitchen-TopCabinet-03	Furniture	Kitchen-TopCabinet-03	
+KitchenStand-01	Furniture	KitchenStand-01	
+KitchenStand-02	Furniture	KitchenStand-02	
+KitchenStand-03	Furniture	KitchenStand-03	
+LadderInterior-01	Misc	LadderInterior-01	室内梯子 I
+MetalDetector	Tool	MetalDetector	
+Milk	Drink	Milk	牛奶
+Motorcycle-01	Vehicle	Motorcycle	摩托车
+Motorcycle-01-GasTankCover	VehiclePart	Motorcycle Fuel Tank	摩托车油箱
+Motorcycle-Seat-01	VehiclePart	Motorcycle Seat	摩托车座椅
+MotorcycleEngine-01	VehiclePart	Motorcycle Engine	摩托车引擎
+MotorcycleTire-1	VehiclePart	Motorcycle Tire	摩托车轮胎
+Mug	Kitchen	Mug	马克杯
+Mushroom	Food	Mushroom	蘑菇
+Nightstand-01	Furniture	Nightstand-01	床头柜 I
+Nightstand-02	Furniture	Nightstand-02	床头柜 II
+Nightstand-03	Furniture	Nightstand-03	床头柜 III
+Nightstand-04	Furniture	Nightstand-04	床头柜 IV
+OffroadTire-1	VehiclePart	OffroadTire-1	
+Orange	Food	Orange	橙子
+OutdoorCooler	Furniture	OutdoorCooler	冷藏箱
+OutdoorCooler-Color-01	Furniture	OutdoorCooler	冷藏箱
+OutdoorCooler-Color-02	Furniture	OutdoorCooler	冷藏箱
+OutdoorCooler-Color-03	Furniture	OutdoorCooler	冷藏箱
+OutdoorCooler-Color-04	Furniture	OutdoorCooler	冷藏箱
+PaintSpray	Misc	PaintSpray	
+PaintSpray_Black	Misc	PaintSpray_Black	
+PaintSpray_Blue	Misc	PaintSpray_Blue	
+PaintSpray_Cream	Misc	PaintSpray_Cream	
+PaintSpray_Orange	Misc	PaintSpray_Orange	
+PaintSpray_Purple	Misc	PaintSpray_Purple	
+PaintSpray_Red	Misc	PaintSpray_Red	
+PaintSpray_Yellow	Misc	PaintSpray_Yellow	
+Pan	Kitchen	Pan	平底锅
+PeanutButter	Food	PeanutButter	花生酱
+PictureFrame	Furniture	PictureFrame	
+Pills	Misc	Pills	药片
+PlantPot	Furniture	PlantPot	花盆
+Plate	Misc	Plate	车牌
+PolaroidCamera	Electronics	PolaroidCamera	
+PolaroidFilmPackage	Misc	PolaroidFilmPackage	拍立得相纸
+PolaroidPrint	Misc	PolaroidPrint	
+Potato	Food	Potato	土豆
+PotatoSeeds	Seeds	PotatoSeeds	
+Radiator-1	VehiclePart	Radiator-1	
+Radiator-2	VehiclePart	Radiator-2	
+Radiator-3	VehiclePart	Radiator-3	
+Radio	VehiclePart	Radio	收音机
+RegularTire-1	VehiclePart	RegularTire-1	
+Reviver	Tool	Reviver	复活器
+RV-1986	Vehicle	RV-1986	
+RV-1986-Door	VehiclePart	RV-1986-Door	复古房车门
+RV-1986-FrontBumper	VehiclePart	RV-1986-FrontBumper	复古房车前保险杠
+RV-1986-Headlight	VehiclePart	RV-1986-Headlight	复古房车大灯
+RV-1986-Hood	VehiclePart	RV-1986-Hood	复古房车引擎盖
+RV-1986-RearBumper	VehiclePart	RV-1986-RearBumper	复古房车后保险杠
+RV-1986-Stoplight	VehiclePart	RV-1986-Stoplight	复古房车刹车灯
+Rv-C	Vehicle	Rv-C	C级房车
+Rv-C-Brakelight	VehiclePart	Rv-C-Brakelight	
+Rv-C-FrontBumper	VehiclePart	Rv-C-FrontBumper	C级房车前保险杠
+Rv-C-Headlight	VehiclePart	Rv-C-Headlight	
+Rv-C-Hood	VehiclePart	Rv-C-Hood	
+Rv-C-LeftDoor	VehiclePart	Rv-C-LeftDoor	
+Rv-C-MiddleDoor	VehiclePart	Rv-C-MiddleDoor	C级房车中门
+Rv-C-RearBumper	VehiclePart	Rv-C-RearBumper	C级房车后保险杠
+Rv-C-RightDoor	VehiclePart	Rv-C-RightDoor	
+Rv-Hippie	Vehicle	Rv-Hippie	嬉皮房车
+Rv-Hippie-Brakelight	VehiclePart	Rv-Hippie-Brakelight	
+Rv-Hippie-DoorBase	VehiclePart	Rv-Hippie-DoorBase	
+Rv-Hippie-FrontBumper	VehiclePart	Rv-Hippie-FrontBumper	
+Rv-Hippie-HeadLight	VehiclePart	Rv-Hippie-HeadLight	
+Rv-Hippie-Hood	VehiclePart	Rv-Hippie-Hood	
+Rv-Hippie-LeftDoor	VehiclePart	Rv-Hippie-LeftDoor	
+Rv-Hippie-RearBumper	VehiclePart	Rv-Hippie-RearBumper	
+Rv-Hippie-RearDoor	VehiclePart	Rv-Hippie-RearDoor	
+Rv-Hippie-RightDoor	VehiclePart	Rv-Hippie-RightDoor	
+Rv-Hippie-SideDoor-1	VehiclePart	Rv-Hippie-SideDoor-1	
+Rv-Hippie-SignalLight	VehiclePart	Rv-Hippie-SignalLight	
+RV-SchoolBus	Vehicle	RV-SchoolBus	
+RV-Schoolbus-Brakelight	VehiclePart	RV-Schoolbus-Brakelight	校车刹车灯
+RV-Schoolbus-FrontBumper	VehiclePart	RV-Schoolbus-FrontBumper	校车前保险杠
+RV-Schoolbus-FrontDoor	VehiclePart	RV-Schoolbus-FrontDoor	校车前门
+RV-Schoolbus-Headlight	VehiclePart	RV-Schoolbus-Headlight	校车大灯
+RV-SchoolBus-Hood	VehiclePart	RV-SchoolBus-Hood	校车引擎盖
+RV-Schoolbus-RearBumper	VehiclePart	RV-Schoolbus-RearBumper	校车后保险杠
+RV-Schoolbus-SignalLight	VehiclePart	RV-Schoolbus-SignalLight	校车转向灯
+SandTire-1	VehiclePart	SandTire-1	
+Seat02	Furniture	Seat02	
+Shovel	Tool	Shovel	铲子
+Soda	Drink	Coke	
+Sofa-01	Furniture	Sofa-01	沙发 I
+Sofa-02	Furniture	Sofa-02	沙发 II
+Sofa-03	Furniture	Sofa-03	沙发 III
+Sofa-04	Furniture	Sofa-04	沙发 IV
+SpareTire-1	VehiclePart	SpareTire-1	
+Sponge	Tool	Sponge	
+Steak	Food	Steak	牛排
+SteeringWheel-1	VehiclePart	SteeringWheel-1	
+SteeringWheel-2	VehiclePart	SteeringWheel-2	
+SteeringWheel-3	VehiclePart	SteeringWheel-3	方向盘 III
+SteeringWheel-4	VehiclePart	SteeringWheel-4	方向盘 IV
+Stove01	Kitchen	Stove01	
+Stove02	Kitchen	Stove02	
+Stove03	Kitchen	Stove03	
+Sunvisor-1	VehiclePart	Sunvisor-1	
+Table-01	Furniture	Table-01	餐桌 I
+TireRepairKit	VehiclePart	TireRepairKit	
+Tomato	Food	Tomato	番茄
+TomatoSeeds	Seeds	TomatoSeeds	
+TomatoSoup	Food	TomatoSoup	
+Tool-Grinder	Tool	Tool-Grinder	
+Tool-Polishing	Tool	Tool-Polishing	
+ToolHanger	Tool	ToolHanger	工具挂架
+TowKnob	VehiclePart	TowKnob	拖车钩
+Toy-Bobblehead-01	Misc	Toy-Bobblehead-01	摇头娃娃 I
+Toy-Bobblehead-02	Misc	Toy-Bobblehead-02	摇头娃娃 II
+Toy-Bobblehead-03	Misc	Toy-Bobblehead-03	摇头娃娃 III
+Toy-Bobblehead-04	Misc	Toy-Bobblehead-04	摇头娃娃 IV
+TunaCan	Food	TunaCan	
+VehicleSeat-1	VehiclePart	VehicleSeat-1	
+VehicleSeat-2	VehiclePart	VehicleSeat-2	
+VehicleSeat-3	VehiclePart	VehicleSeat-3	座椅 III
+VehicleSeat-4	VehiclePart	VehicleSeat-4	座椅 IV
+WallShelf-01	Furniture	WallShelf-01	壁挂置物架 I
+WallShelf-02	Furniture	WallShelf-02	壁挂置物架 II
+WallShelf-03	Furniture	WallShelf-03	壁挂置物架 III
+WallShelf-04	Furniture	WallShelf-04	壁挂置物架 IV
+WaterCan	Tool	WaterCan	
+Watermelon	Food	Watermelon	西瓜
+WatermelonSeeds	Seeds	WatermelonSeeds	
+WaterPumpReservoir	Misc	WaterPumpReservoir	
+WC-01	Furniture	WC-01	马桶 I
+WoodenCrate	Tool	WoodenCrate	木箱
+WoodenHand	Furniture	WoodenHand	木制手模
