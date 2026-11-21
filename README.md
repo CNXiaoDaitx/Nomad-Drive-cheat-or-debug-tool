@@ -5,7 +5,7 @@
 
 不需要 BepInEx / MelonLoader，不需要 .NET SDK，不改游戏本体文件 —— 拷 4 个文件进游戏目录就能用，删掉就干净卸载。
 
-![物品生成面板](images/panel-player.png)
+![Uploading 面板-可缩放.png…]()
 
 ---
 
